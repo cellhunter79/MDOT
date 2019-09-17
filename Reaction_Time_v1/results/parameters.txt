@@ -1,0 +1,22 @@
+stim_x_size:
+150
+stim_y_size:
+150
+frame_rate:
+4
+signal_frame_num:
+4
+chance:
+3
+signal_x_size:
+10
+signal_y_size:
+5
+platform:
+Zhengs-MacBook-Pro-6.local
+subject_name:
+Donald J. Trump
+researcher_name:
+Sara Rostampour
+data_time:
+2019-09-03 10:10:49.109470
